@@ -4860,6 +4860,12 @@ public final class Settings {
          */
         public static final String GAMING_MODE_MEDIA_ENABLED = "gaming_mode_media_enabled";
 
+         /**
+         * Screen off fod
+         * @hide
+         */
+        public static final String FOD_GESTURE = "fod_gesture";
+
         /**
          * Gaming mode media volume level in percentage
          * @hide
