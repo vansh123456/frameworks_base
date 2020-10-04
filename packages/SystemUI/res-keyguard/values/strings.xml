@@ -426,4 +426,6 @@ number">%d</xliff:g> remaining attempts before SIM becomes permanently unusable.
         <item>Fifty\nNine</item>
     </string-array>
 
+    <string name="clock_title_type_alt" translatable="false">Type (center)</string>
+
 </resources>
