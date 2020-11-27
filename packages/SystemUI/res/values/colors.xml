@@ -275,4 +275,10 @@
     <color name="misalignment_text_color">#F28B82</color>
 
     <color name="screenrecord_status_color">#E94235</color>
+<<<<<<< HEAD
+=======
+
+    <!-- Color of the FOD view -->
+    <color name="config_fodColorBackground">#20000000</color>
+>>>>>>> 9c44cb046b76... [SQUASH] SystemUI: FOD icon picker [1/2]
 </resources>
