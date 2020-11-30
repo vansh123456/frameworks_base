@@ -4404,4 +4404,7 @@
 
     <!-- Component names of the services which will keep critical code path warm -->
     <string-array name="config_keep_warming_services" translatable="false" />
+
+       <!-- Default fod pressed color -->
+    <integer name="config_fod_pressed_color">1</integer>
 </resources>
