@@ -36,7 +36,7 @@ import android.system.ErrnoException;
 import android.system.Os;
 import android.util.Log;
 
-import com.android.internal.util.du.PixelPropsUtils;
+import com.android.internal.util.yaap.PixelPropsUtils;
 
 import dalvik.annotation.optimization.FastNative;
 import dalvik.system.ZygoteHooks;
