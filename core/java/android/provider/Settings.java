@@ -5282,13 +5282,6 @@ public final class Settings {
          */
         public static final String ADAPTIVE_PLAYBACK_ENABLED = "adaptive_playback_enabled";
 
-        /**
-         * Adaptive playback's timeout in ms
-         * Enable/Disable screenshot sound
-         * @hide
-         */
-        public static final String SCREENSHOT_SOUND = "screenshot_sound";
-
          /**
          * Whether to show lock icon on lockscreen
          * @hide
@@ -5432,13 +5425,10 @@ public final class Settings {
             PRIVATE_SETTINGS.add(VIBRATE_ON_CONNECT);
             PRIVATE_SETTINGS.add(VIBRATE_ON_CALLWAITING);
             PRIVATE_SETTINGS.add(VIBRATE_ON_DISCONNECT);
-<<<<<<< HEAD
             PRIVATE_SETTINGS.add(FLASHLIGHT_ON_CALL);
             PRIVATE_SETTINGS.add(FLASHLIGHT_ON_CALL_IGNORE_DND);
             PRIVATE_SETTINGS.add(FLASHLIGHT_ON_CALL_RATE);
-=======
             PRIVATE_SETTINGS.add(SCREENSHOT_SOUND);
->>>>>>> 0036d4fdb9e... Disable/Enable screenshot sound [1/2]
         }
 
         /**
