@@ -5058,12 +5058,6 @@ public final class Settings {
          * @hide
          */
         public static final String SCREENSHOT_SOUND = "screenshot_sound";
- 
-        /**
-         * FOD icon picker
-         * @hide
-         */
-        public static final String FOD_ICON = "fod_icon";
 
         /**
          * Whether the phone vibrates on call connect
